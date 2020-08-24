@@ -14,10 +14,7 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="" width="22px" src="https://ishwaryas1412.github.io/portfolio/" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://twitter.com/a3370cf1e84848d" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/ishwarya-sekar-b48a9218a/" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
 <br />
