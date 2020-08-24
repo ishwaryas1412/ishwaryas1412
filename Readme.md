@@ -1,9 +1,9 @@
- Hi there, This is Ishwarya 👋
+### Hi there, This is Ishwarya 👋
 
 [![Website](https://img.shields.io/badge/studymonk-profile-orange)](https://studymonk.in/ishwarya)
 [![Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/ishwarya-sekar-b48a9218a/)
 
-## I'm 
+## Wanna know me 😁
 
 - 🔭 I’m currently working on Indian0,uniq technologies !
 - 🌱 I’m currently learning python coding !
