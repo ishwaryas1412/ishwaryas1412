@@ -5,7 +5,7 @@
 
 ## Wanna know me 😁
 
-- 🔭 I’m currently working on Indian0,uniq technologies !
+- 🔭 I’m currently doing intern in Indian0,uniq technologies !
 - 🌱 I’m currently learning python coding !
 - 👯 I’m looking to collaborate with like minded people and build something valuable to the community.
 - 🥅 2020 Goals: Live happily and gain more skills !
